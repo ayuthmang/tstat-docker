@@ -7,3 +7,9 @@ Tstat in the container!
 ```bash
 docker build 3/ubuntu/
 ```
+## Using Tstat on Container
+
+```bash
+$ docker run -it blacksource/tstat bash
+$ tstat -h
+```
