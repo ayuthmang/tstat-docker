@@ -22,4 +22,4 @@ Tstat is provided under the GPL software license and made available for free for
 
 ## Special Thanks
 
-Thanks for https://hub.docker.com/r/andreyferriyan/tstat/ for make this fullfilled.
+Thanks for https://hub.docker.com/r/andreyferriyan/tstat/ for make run command fullfilled.
