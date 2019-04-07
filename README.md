@@ -10,7 +10,7 @@ docker build 3/ubuntu/
 ## Using Tstat on Container
 
 ```bash
-$ docker run --name=bs-tstat -v /root/tstat-logs:/root/tstat-logs --rm --net=host -it blacksource/tstat tstat -l -i eth0 -s /root/tstat-logs
+$ docker run --name=bs-tstat -v /root/tstat-logs:/root/tstat-logs --rm --net=host -it blacksource/tstat tstat -l -i <your interface name> -s /root/tstat-logs
 ```
 
 ## License
