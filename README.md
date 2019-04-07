@@ -1,8 +1,6 @@
 # tstat-docker-starter-kit
 
-Tstat on docker container!
-
-[Docker Hub](https://hub.docker.com/r/blacksourcez/tstat/)
+Tstat in container, see more [Docker Hub](https://hub.docker.com/r/blacksourcez/tstat/).
 
 ## Build docker file to docker image
 
