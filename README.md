@@ -1,6 +1,6 @@
 # Tstat in docker
 
-Tstat in container, see more [Docker Hub](https://hub.docker.com/r/blacksourcez/tstat/).
+Tstat in container, see more on [Docker Hub](https://hub.docker.com/r/blacksourcez/tstat/).
 
 ## Build docker file to docker image
 
