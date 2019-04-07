@@ -1,4 +1,4 @@
-# tstat-docker-starter-kit
+# Tstat in docker
 
 Tstat in container, see more [Docker Hub](https://hub.docker.com/r/blacksourcez/tstat/).
 
